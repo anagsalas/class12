@@ -1,3 +1,7 @@
-Git test file 1editing file for step 9(e)
+Git test file 1
+
+editing file for step 9(e)
 
 editing file for navigating GitHub (step 4) 
+
+Edit test attempt #1
