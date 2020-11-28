@@ -1,1 +1,1 @@
-Git test file 2 
+Git test file 2 redoing text change for step 6 (c) 
